@@ -1,4 +1,4 @@
-module ozon/storage
+module github.com/aberibesov/storage
 
 go 1.21
 
