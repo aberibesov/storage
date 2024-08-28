@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/aberibesov/storage"
 	"log"
-	"ozon/storage/internal/storage"
 )
 
 func main() {

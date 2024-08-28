@@ -1,6 +1,6 @@
 package storage
 
-import "ozon/storage/internal/storage"
+import "github.com/aberibesov/storage"
 
 func NewStorage() *storage.Storage {
 	return storage.NewStorage()

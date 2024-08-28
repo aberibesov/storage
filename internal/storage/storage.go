@@ -2,8 +2,8 @@ package storage
 
 import (
 	"fmt"
+	"github.com/aberibesov/storage/internal/file"
 	"github.com/google/uuid"
-	"ozon/storage/internal/file"
 )
 
 type Storage struct {
